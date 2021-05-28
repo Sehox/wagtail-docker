@@ -33,4 +33,4 @@ An empty and up-to-date Wagtail project as a Docker environment with PostgreSQL
     ```sh
     $ docker-compose -f docker-compose.prod.yml build
     $ docker-compose -f docker-compose.prod.yml up -d
-    ```# wagtail-docker
+    ```
